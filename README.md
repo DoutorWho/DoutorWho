@@ -73,7 +73,7 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
 ## 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/doutorwho/carropipa" target="_blank">
+  <a href="https://github.com/doutorwho/Carro-Pipa" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=carropipa&theme=tokyonight" />
   </a>
   <a href="https://github.com/SEU_USUARIO/projeto2" target="_blank">
