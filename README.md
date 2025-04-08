@@ -9,7 +9,7 @@
 <!-- Sobre mim -->
 ## 🧠 Sobre mim
 
-Olá! Meu nome é **Seu Nome Aqui** e estou iniciando minha jornada como desenvolvedor(a). Sou apaixonado(a) por resolver problemas com código e estou sempre buscando aprender e evoluir.
+Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a). Sou apaixonado(a) por resolver problemas com código e estou sempre buscando aprender e evoluir.
 
 - 🚀 Em aprendizado: **C, C++, Java, Python e JavaScript**
 - 🎯 Foco em: Lógica de programação, estruturas de dados e desenvolvimento web
@@ -22,16 +22,16 @@ Olá! Meu nome é **Seu Nome Aqui** e estou iniciando minha jornada como desenvo
 <h2 align="center">🌐 Contato & Redes Sociais</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/seu_usuario" target="_blank">
+  <a href="https://www.instagram.com/doutorwho123" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/aaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/seu_usuario" target="_blank">
+  <a href="https://twitter.com/redle_doutor" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:elderbadaro06@gmail.com">
+  <a href="mailto:aaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://discord.com/channels/@doutorwho" target="_blank">
