@@ -62,7 +62,7 @@ Olá! Meu nome é **Seu Nome Aqui** e estou iniciando minha jornada como desenvo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=doutorwho&color=blue" alt="Visualizações de perfil"/>
 </p>
----
+
 
 <!-- Projetos em destaque -->
 ## 🚀 Projetos em Destaque
@@ -78,4 +78,12 @@ Olá! Meu nome é **Seu Nome Aqui** e estou iniciando minha jornada como desenvo
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudando+programação+todos+os+dias!;Desenvolvendo+projetos+legais+em+C,+Java,+e+mais!;Compartilhando+minha+evolução+no+GitHub!" alt="Typing SVG">
+</p>
+
+<p align="center">
+  ✨ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios. ✨
+</p>
