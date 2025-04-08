@@ -74,7 +74,7 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
 
 <p align="center">
   <a href="https://github.com/doutorwho/Carro-Pipa" target="_blank">
-    <img style="width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" />
+    <img style="width: 400px; height: 200px; margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" />
   </a>
   <a href="https://github.com/doutorwho/Playlerning" target="_blank">
     <img style="width: 400px; height: 250px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" />
