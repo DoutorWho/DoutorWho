@@ -1,7 +1,7 @@
 <!-- Banner principal -->
 <h1 align="center">👋 Olá! Eu sou um(a) Desenvolvedor(a) em formação</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J1NWc2MTY1Z3MzeW56d3JpcjFxdnlsaXZ4NXltdG9qZWFkOWw5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Coding gif">
 </p>
 
 ---
