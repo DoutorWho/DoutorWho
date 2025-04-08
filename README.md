@@ -22,19 +22,19 @@ Olá! Meu nome é **Seu Nome Aqui** e estou iniciando minha jornada como desenvo
 <h2 align="center">🌐 Contato & Redes Sociais</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/seu_usuario">
+  <a href="https://www.instagram.com/seu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu_usuario">
+  <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/seu_usuario">
+  <a href="https://twitter.com/seu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:seu_email@gmail.com">
+  <a href="mailto:elderbadaro06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://discord.com/channels/@doutorwho">
+  <a href="https://discord.com/channels/@doutorwho" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
