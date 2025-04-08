@@ -73,16 +73,16 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
 ## 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/doutorwho/Carro-Pipa" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" alt="Carro-Pipa">
+  <a href="https://github.com/doutorwho/Carro-Pipa" target="_blank" style="margin: 20px; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" alt="Projeto Carro-Pipa" />
     <br/>
-    <img src="https://img.shields.io/badge/Ver no GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/Acessar no GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/doutorwho/Playlerning" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" alt="Playlerning">
+
+  <a href="https://github.com/doutorwho/Playlerning" target="_blank" style="margin: 20px; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" alt="Projeto Playlerning" />
     <br/>
-    <img src="https://img.shields.io/badge/Ver no GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/Acessar no GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
 
