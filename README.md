@@ -64,7 +64,7 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
 
 <!-- Visualizações de perfil -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=doutorwho&color=blue" alt="Visualizações de perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=doutorwho&color=blue&locale=pt-br" alt="Visualizações de perfil"/>
 </p>
 
 
@@ -74,10 +74,10 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
 
 <p align="center">
   <a href="https://github.com/doutorwho/Carro-Pipa" target="_blank">
-    <img style="width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" />
+    <img style="width: 200px; height: 200px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" />
   </a>
   <a href="https://github.com/doutorwho/Playlerning" target="_blank">
-    <img style="width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" />
+    <img style="width: 200px; height: 200px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" />
   </a>
 </p>
 
