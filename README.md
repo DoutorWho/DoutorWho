@@ -73,16 +73,17 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
 ## 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/doutorwho/Carro-Pipa" target="_blank" style="margin: 20px; text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" alt="Projeto Carro-Pipa" />
-    <br/>
-    <img src="https://img.shields.io/badge/Acessar no GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <a href="https://github.com/doutorwho/Carro-Pipa" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" />
   </a>
+  <a href="https://github.com/doutorwho/Playlerning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" />
+  </a>
+</p>
 
-  <a href="https://github.com/doutorwho/Playlerning" target="_blank" style="margin: 20px; text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" alt="Projeto Playlerning" />
-    <br/>
-    <img src="https://img.shields.io/badge/Acessar no GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+<p align="center">
+  <a href="https://github.com/doutorwho?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar todos os repositórios" />
   </a>
 </p>
 
