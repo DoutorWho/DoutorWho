@@ -78,7 +78,6 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
   </a>
   <a href="https://github.com/doutorwho/Playlerning" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Playlerning&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=Carro-Pipa&theme=tokyonight" />
   </a>
 </p>
 
