@@ -34,7 +34,7 @@ Olá! Meu nome é **Seu Nome Aqui** e estou iniciando minha jornada como desenvo
   <a href="mailto:seu_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="mailto:discord.com/channels/@doutorwho">
+  <a href="https://discord.com/channels/@doutorwho">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
