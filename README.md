@@ -60,8 +60,8 @@ Olá! Meu nome é **[Seu Nome Aqui]** e estou iniciando minha jornada como desen
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=blue" alt="Visualizações"/>
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=social" alt="Seguidores GitHub"/>
+  <img src="https://komarev.com/ghpvc/?username=doutorwho&style=flat-square&color=blue" alt="Visualizações"/>
+  <img src="https://img.shields.io/github/followers/doutorwho?label=Seguidores&style=social" alt="Seguidores GitHub"/>
 </p>
 
 ---
@@ -71,10 +71,10 @@ Olá! Meu nome é **[Seu Nome Aqui]** e estou iniciando minha jornada como desen
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO/projeto1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=projeto1&theme=tokyonight" />
   </a>
   <a href="https://github.com/SEU_USUARIO/projeto2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doutorwho&repo=projeto2&theme=tokyonight" />
   </a>
 </p>
 
