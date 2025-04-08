@@ -58,13 +58,15 @@ Olá! Meu nome é **Elder** e estou iniciando minha jornada como desenvolvedor(a
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doutorwho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doutorwho&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doutorwho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doutorwho&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
+<!-- Visualizações de perfil -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=doutorwho&color=blue" alt="Visualizações de perfil"/>
 </p>
+
 
 
 <!-- Projetos em destaque -->
