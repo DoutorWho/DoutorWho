@@ -55,8 +55,8 @@ Olá! Meu nome é **[Seu Nome Aqui]** e estou iniciando minha jornada como desen
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doutorwho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doutorwho&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
