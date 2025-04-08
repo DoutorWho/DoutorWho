@@ -1,15 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub
 
-<!--
-**doutorwho/doutorwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma pessoa apaixonada por tecnologia e estou dando os meus primeiros passos no mundo da **programação**. Tenho muita vontade de aprender, crescer e colaborar com projetos incríveis!
 
-Here are some ideas to get you started:
+## 🧠 Um pouco sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Estou começando meus estudos em desenvolvimento de software.
+- 💻 Interesso-me por várias linguagens de programação, especialmente:
+  - 🐍 **Python** – Simples e poderosa!
+  - ☕ **Java** – Robusta e orientada a objetos.
+  - 🌐 **JavaScript** – Para tornar a web mais interativa.
+  - 💾 **C** – Para entender como tudo funciona por baixo.
+  - 🧠 **C++** – Potente e desafiadora, adoro aprender mais sobre ela!
+
+## 🚀 Objetivos
+
+- Aprender cada dia mais 💡
+- Praticar com pequenos projetos 💻
+- Contribuir para a comunidade open-source quando possível 🤝
+- Compartilhar minha jornada e evolução como desenvolvedor(a) 🌱
+
+## 🌟 Estou aprendendo sobre:
+
+- Estruturas de dados e algoritmos
+- Programação orientada a objetos (POO)
+- Lógica de programação
+- Desenvolvimento web com HTML, CSS e JavaScript
+
+## 📫 Como me encontrar
+
+Você pode me acompanhar por aqui no GitHub, onde irei publicar meus projetos e aprendizados. Em breve também espero compartilhar meus estudos em outras plataformas!
+
+---
+
+✨ *Sinta-se à vontade para explorar meus repositórios e me acompanhar nessa jornada de aprendizado!* 🚀
