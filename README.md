@@ -92,7 +92,7 @@ Olá! Meu nome é **Elder**, tenho 18 anos e estou iniciando minha jornada como 
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=00FF00&width=700&lines=Estudando+programação+com+amor+e+odio+todos+os+dias!;Desenvolvendo+projetos+legais,+divertidos+e+interativos!;Compartilhando+minha+evolução+no+GitHub+e+na+programação!;Aprender+programação+foi+a+melhor+escolha+da+minha+vida!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=5000&pause=1000&color=00FF00&width=700&lines=Estudando+programa%C3%A7%C3%A3o+com+amor+e+odio+todos+os+dias!;Desenvolvendo+projetos+legais,+divertidos+e+interativos!;Compartilhando+minha+evolu%C3%A7%C3%A3o+no+GitHub+e+na+programa%C3%A7%C3%A3o!;Aprender+programa%C3%A7%C3%A3o+foi+a+melhor+escolha+da+minha+vida!" alt="Typing SVG">
 </p>
 
 <p align="center">
