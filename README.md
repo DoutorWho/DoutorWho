@@ -9,7 +9,7 @@
 <!-- Sobre mim -->
 ## 🧠 Sobre mim
 
-Olá! Meu nome é **Elder**, tenho 18 anos e estou iniciando minha jornada como desenvolvedor(a). Sou apaixonado(a) por resolver problemas com código e estou sempre buscando aprender e evoluir.
+Olá! Meu nome é **Elder**, tenho 19 anos e estou iniciando minha jornada como desenvolvedor(a). Sou apaixonado(a) por resolver problemas com código e estou sempre buscando aprender e evoluir.
 
 - 🚀 Em aprendizado: **C, C++, Java, Python e JavaScript**
 - 🎯 Foco em: Lógica de programação, estruturas de dados e desenvolvimento web
