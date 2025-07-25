@@ -9,12 +9,12 @@
 <!-- Sobre mim -->
 ## 🧠 Sobre mim
 
-Olá! Meu nome é **Elder**, tenho 19 anos e estou iniciando minha jornada como desenvolvedor(a). Sou apaixonado(a) por resolver problemas com código e estou sempre buscando aprender e evoluir.
+Olá! Me chamo **Elder**, tenho 19 anos e estou no início da minha trajetória como desenvolvedor. Atualmente, curso o 1º semestre de **Engenharia de Software** e sou movido pela curiosidade e pela vontade constante de aprender e crescer na área da tecnologia.
 
-- 🚀 Em aprendizado: **C, C++, Java, Python e JavaScript**
-- 🎯 Foco em: Lógica de programação, estruturas de dados e desenvolvimento web
-- 🤝 Aberto(a) a colaborações em projetos e estudos
-- 📚 Sempre explorando novas tecnologias
+- 🚀 Em processo de aprendizado: **C, C++, Java, Python e JavaScript**
+- 🎯 Interesses principais: **Lógica de programação**, **estruturas de dados** e **desenvolvimento web**
+- 🤝 Aberto a colaborações em projetos, estudos e desafios que agreguem experiência
+- 📚 Sempre em busca de novas ferramentas, linguagens e boas práticas de desenvolvimento
 
 ---
 
@@ -22,10 +22,10 @@ Olá! Meu nome é **Elder**, tenho 19 anos e estou iniciando minha jornada como 
 <h2 align="center">🌐 Contato & Redes Sociais</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/doutorwho123" target="_blank">
+  <a href="https://www.instagram.com/doutorwho948" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/aaa" target="_blank">
+  <a href="https://www.linkedin.com/in/elderbadaro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/redle_doutor" target="_blank">
