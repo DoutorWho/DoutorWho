@@ -9,7 +9,7 @@
 <!-- Sobre mim -->
 ## 🧠 Sobre mim
 
-Olá! Me chamo **Elder**, tenho 19 anos e estou no início da minha trajetória como desenvolvedor. Atualmente, curso o 1º semestre de **Engenharia de Software** e sou movido pela curiosidade e pela vontade constante de aprender e crescer na área da tecnologia.
+Olá! Me chamo **Elder**, tenho 20 anos e estou no início da minha trajetória como desenvolvedor. Atualmente, curso o 1º semestre de **Engenharia de Software** e sou movido pela curiosidade e pela vontade constante de aprender e crescer na área da tecnologia.
 
 - 🚀 Em processo de aprendizado: **C, C++, Java, Python e JavaScript**
 - 🎯 Interesses principais: **Lógica de programação**, **estruturas de dados** e **desenvolvimento web**
